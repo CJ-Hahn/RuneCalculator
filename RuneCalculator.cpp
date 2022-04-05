@@ -28,7 +28,7 @@ int main(){
 	int current_level, desired_level;
 	
 	cout << "RUNE CALCULATOR: Calculate how many runes you need to level up" << endl;
-	cout << "Note: is only accurate for levels starting at 12." << endl;
+	cout << "Note: is only accurate for levels starting at 12 or higher." << endl;
 	
 	while(true){
 	
